@@ -2,6 +2,9 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/IdeaProjects/test5" />
+        <option value="$USER_HOME$/IdeaProjects/test4" />
+        <option value="$USER_HOME$/IdeaProjects/ncp" />
         <option value="$USER_HOME$/IdeaProjects/test3" />
         <option value="$USER_HOME$/IdeaProjects/demo" />
         <option value="$USER_HOME$/IdeaProjects/test2" />
@@ -10,10 +13,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/IdeaProjects/test3" />
+        <option value="$USER_HOME$/IdeaProjects/test5" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/IdeaProjects/test3" />
+    <option name="lastPath" value="$USER_HOME$/IdeaProjects/test5" />
     <option name="additionalInfo">
       <map>
         <entry key="$USER_HOME$/IdeaProjects/demo">
@@ -24,6 +27,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1487313592139" />
               <option name="buildTimestamp" value="1485857147449" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/ncp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487320048724" />
+              <option name="buildTimestamp" value="1485857126979" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -55,8 +69,30 @@
               <option name="build" value="IU-163.12024.16" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1487318146000" />
-              <option name="buildTimestamp" value="1485857147449" />
+              <option name="projectOpenTimestamp" value="1487319691854" />
+              <option name="buildTimestamp" value="1485857126979" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/test4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487321378091" />
+              <option name="buildTimestamp" value="1485857126979" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/test5">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1487322579112" />
+              <option name="buildTimestamp" value="1485857126979" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

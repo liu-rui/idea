@@ -14,13 +14,20 @@
     <location key="#Tomcat_Server.1920.0.1920.1080" x="2680" y="596" />
     <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.1920.0.1920.1080" x="2631" y="429" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.1920.0.1920.1080" x="2609" y="415" />
-    <location key="SettingsEditor.0.0.1920.1080" x="426" y="367" />
+    <location key="SettingsEditor.0.0.1920.1080" x="512" y="245" />
     <location key="editAsTableFormatDialogDimension.0.0.1920.1080" x="513" y="264" />
-    <location key="FileChooserDialogImpl.0.0.1920.1080" x="669" y="346" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="669" y="402" />
     <location key="#DemoApplication.0.0.1920.1080" x="685" y="150" />
-    <location key="new project wizard.0.0.1920.1080" x="447" y="342" />
+    <location key="new project wizard.0.0.1920.1080" x="447" y="398" />
     <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1920.1080" x="716" y="382" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080" x="705" y="452" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="584" y="486" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="505" y="233" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="549" y="169" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080" x="781" y="295" />
+    <location key="#Project_Structure.0.0.1920.1080" x="466" y="152" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="748" y="223" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080" x="968" y="312" />
     <size key="FileChooserDialogImpl.1920.0.1920.1080" width="908" height="465" />
     <size key="new project wizard.1920.0.1920.1080" width="1062" height="737" />
     <size key="SettingsEditor.1920.0.1920.1080" width="1171" height="663" />
@@ -55,5 +62,12 @@
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1831" height="283" />
     <size key="new project wizard.0.0.1920.1080" width="1072" height="557" />
     <size key="#com.intellij.ide.util.PackageChooserDialog.0.0.1920.1080" width="524" height="421" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="788" height="158" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="946" height="664" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="859" height="791" />
+    <size key="Vcs.Push.Dialog.0.0.1920.1080" width="394" height="540" />
+    <size key="#Project_Structure.0.0.1920.1080" width="1024" height="826" />
+    <size key="#Browse_JetBrains_Plugins_.0.0.1920.1080" width="824" height="665" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080" width="324" height="555" />
   </component>
 </application>
