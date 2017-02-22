@@ -1,1 +1,9 @@
+/consoles
+/extensions
+/jdbc-drivers
+/options
+/plugins
 /tasks
+disabled_plugins.txt
+port
+prot.lock
