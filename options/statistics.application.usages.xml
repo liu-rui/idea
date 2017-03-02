@@ -1,0 +1,32 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="10" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="3" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="5" />
+      <entry feature="configure.code.style.on.selected.fragment" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="163" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="11" />
+      <entry feature="execute.Application.Debug" count="227" />
+      <entry feature="execute.Application.Run" count="35" />
+      <entry feature="execute.JUnit.Debug" count="15" />
+      <entry feature="execute.JUnit.Run" count="25" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="34" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="9" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="14" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="4" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ideaapp.started" count="11" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="62" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="29" />
+      <entry feature="terminal.linux" count="7" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="5" />
+    </counts>
+  </component>
+</application>
